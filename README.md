@@ -1,7 +1,7 @@
 # Marupeke
 Marupeke the game. 
 
-This project was completed for a programming class in my second year of studies at the University of Sussex. It is a java application which randomly generates solvable marupeke grids.
+This project was completed for a programming class in my first year of studies at the University of Sussex. It is a java application which randomly generates solvable marupeke grids.
 
 Displaying the data: 
 
